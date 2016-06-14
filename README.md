@@ -11,4 +11,10 @@ This is a book on... well, Neural Networks and Deep Learning. It follows the exa
 https://daoudclarke.github.io/machine%20learning%20in%20practice/2013/10/08/machine-learning-libraries/
 Again, painfully obvious titles of things. This is a list of 17 ML libraries across different languages. I'm leaning towards either Spark in java, or getting started in MatLab from scratch, and moving on to some java libraries for actual implementations.
 
+https://www.youtube.com/watch?v=qv6UVOQ0F44 MarI/0 a self learning mario game
+
+http://pastebin.com/ZZmSNaHX Source code for above program
+
+http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf "Neat" paper that above source code is based on
+
 Read more stuff! Add things here!
