@@ -13,6 +13,8 @@ Again, painfully obvious titles of things. This is a list of 17 ML libraries acr
 
 https://www.youtube.com/watch?v=qv6UVOQ0F44 MarI/0 a self learning mario game
 
+http://pastebin.com/ZZmSNaHX Source code for above program
 
+http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf "Neat" paper that above source code is based on
 
 Read more stuff! Add things here!
